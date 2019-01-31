@@ -1,0 +1,176 @@
+body{
+	background:#fff;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+#header{
+  width: 100%;
+  min-height: 700px;
+  background: #2936ab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #324dd3, #2936ab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #324dd3, #2936ab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#head{
+  width: 100%;
+  height: auto;
+  padding: 3%;
+}
+
+.logo{
+  width: 200px;
+}
+
+#nav{
+  width: 100%;
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+  color:white;
+}
+
+.navbar-default {
+    background-color: transparent  !important;
+    border-color: transparent !important;
+}
+
+#banner h1{
+  color:white;
+  font-size: 55px;
+    padding: 5% 3% 1% 6%;
+}
+
+#banner p{
+  color:white;
+  font-size: 20px;
+    padding: 0% 3% 1% 6%;
+}
+
+#banner button{
+  background: white;
+  color:#2f45c5;
+  font-size: 20px;
+    padding:1.5% 5%;
+    border:none;
+    border-radius: 50px;
+    margin-left: 6%;
+}
+
+#content-box{
+  float: left;
+  margin-top: -209px;
+  width: 100%;
+  height: auto;
+  background: white;
+  padding: 2% 2% 6% 2%;
+}
+
+#content-box center{
+  color:#23639f;
+  font-size: 30px;
+  padding: 5% 0% 0.5% 0%;
+
+}
+#content-box p{
+  color:#666666;
+  font-size: 16px;
+  padding: 0px;
+  padding-bottom: 5%;
+}
+
+.l-box{
+  width: 150px;
+  height: 150px;
+  margin: 15px auto;
+  background: white;
+  box-shadow: 1px 0px 10px #ccc;
+  border-radius: 10px
+}
+
+#content-box2{
+  float: left;
+  width:100%;
+  height: 650px;
+  background: white;
+
+}
+
+#blue-content{
+  width: 100%;
+  height: 550px;
+  background: #2b3bb5;
+  margin-top: 100px;
+
+}
+
+#content-box2 p{
+  color:#fff;
+  font-size: 20px;
+  padding: 0px;
+  padding-bottom: 5%;
+}
+
+footer{
+  padding:5% 2% 7% 2%;
+  float: left;
+  width: 100%;
+  height: 100px;
+}
+
+footer p{
+  color:#adadad;
+  font-size: 16px;
+}
+
+.abt-box{
+  width: 200px;
+  height: 200px;
+  background: white;
+  margin: 20px auto;
+  border-radius: 100px;
+}
+
+#about-box{
+  clear: both;
+  float: left;
+  width: 100%;
+  min-height: 500px;
+  background: white;
+  padding: 5%;
+}
+
+#about-box h2{
+color:#2b3bb5;
+}
+
+#about-box p{
+color:#333;
+padding: 3%;
+font-size: 19px;
+}
+
+.email-btn{
+  border:none;
+  border-radius: 50px;
+  padding: 1.5% 7%;
+  color:white;
+  background: #2b3bb5;
+  font-size: 23px;
+}
+
+#sel{
+  display: none;
+}
+
+#sel2{
+  display: none;
+}
+
+#sel3{
+  display: none;
+}
+
+#sel4{
+  display: none;
+}
